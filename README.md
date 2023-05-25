@@ -2,7 +2,7 @@
 
 #### Name: [翁祐祥]
 #### Student ID: [111753226]
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_111753226/>]
+#### ShinyApps link: [(https://yhweng.shinyapps.io/NCCU_DS2023_hw4_111753226/)]
 
 ## Description
 
